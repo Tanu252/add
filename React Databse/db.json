@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "username": "tanu",
+      "Email": "tanu@gmail.com",
+      "Password": "123456789",
+      "id": 1
+    }
+  ],
+  "rental-houses": [
+    {
+      "id": "6",
+      "url": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "address": "5500 Grand Lake Drive, San Antonio, TX, 78244",
+      "propertyType": "Single Family",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "1",
+      "url": "https://images.unsplash.com/photo-1591170715502-fbc32adc4f52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "address": "5500 Grand Lake Drive, San Antonio, TX, 78244",
+      "propertyType": "Duplex-Triplex",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "Chicago"
+    },
+    {
+      "id": "2",
+      "url": "https://images.unsplash.com/photo-1577618163295-29d57a40e2b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=840&q=80",
+      "address": "3409 E 21st Ave, San Antonio, TX, 78244",
+      "propertyType": "Single Family",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "Phoenix"
+    },
+    {
+      "id": "3",
+      "url": "https://images.unsplash.com/photo-1464316325666-63beaf639dbb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "address": "12550 Amargosa Rd, San Antonio, TX, 78244",
+      "propertyType": "Apartment",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "New York"
+    },
+    {
+      "id": "4",
+      "url": "https://images.unsplash.com/photo-1621983209359-456e234c892a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "address": "5500 Grand Lake Drive, San Antonio, TX, 78244",
+      "propertyType": "Duplex-Triplex",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "Miami"
+    },
+    {
+      "id": "5",
+      "url": "https://images.unsplash.com/photo-1621983209359-456e234c892a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "address": "5500 Grand Lake Drive, San Antonio, TX, 78244",
+      "propertyType": "Apartment",
+      "bedrooms": "4",
+      "bathrooms": "2",
+      "squareFootage": "1600",
+      "compCount": "5",
+      "price": "5000",
+      "city": "Los Angeles"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
